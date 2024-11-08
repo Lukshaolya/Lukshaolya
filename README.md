@@ -1,16 +1,35 @@
-## Hi there 👋
+# <h1>Junior Frontend Developer</h1>
+  `Wroclaw, Poland`
 
-<!--
-**Lukshaolya/Lukshaolya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+- HTML / CSS/SASS / JS
+- TypeScript
+- React 
+- React Toolkit / Redux / RTK Query
+- React Flow
+- MaterialUI / AntDesign
+- SQL
+- AWS Fundamentials
+- Jira /Scrum
 
-Here are some ideas to get you started:
+## Experience 
+### External Junior Frontend Developer
+##### IBA Group *June 2024 - November 2024*
+- Collaborated in designers and the web development team, using Jira boards for task management and progress tracking. 
+- Fixed bugs and developed new components using React and TypeScript.
+- Utilized React RTK Query and Redux for efficient state management and data fetching.
+- Responsible for creating visualizations using React Flow and Dagre Scheme.
+- Worked with Azure services to deploy and manage frontend applications.
+- Improved and developed application themes. Used Material Design principles and SASS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- English B2
+- Polish A2
+- Belarusian native
+- Russian fluent
+
+## Links
+- [RS School Certificate Frontend Developer 2023Q2](https://app.rs.school/certificate/1u6pneqz)
+- [CV]()
+- [LinkedIn](https://www.linkedin.com/in/volha-luksha-frontend-dev/)
+
