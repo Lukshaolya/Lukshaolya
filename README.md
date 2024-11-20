@@ -11,6 +11,7 @@
 - SQL
 - AWS Fundamentials
 - Jira /Scrum
+- *Practice PERN  stack [PostgreSQL, Express, React, and Node.js.]*
 
 ## Experience 
 ### External Junior Frontend Developer
